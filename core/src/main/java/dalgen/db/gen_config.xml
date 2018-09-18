@@ -27,7 +27,7 @@
 	<entry key="java_typemapping.java.math.BigDecimal">double</entry>
 	<entry key="java_typemapping.java.sql.Clob">String</entry>
 
-	<!-- 用于存放sequence列表，生成SeqDAO使用,使用空格，换行符分隔，示例值: seq_user seq_blog -->
+	<!-- 用于存放sequence列表，生成SeqDAO使用,使用空格，换行符分隔，示例值: seq_user seq_blog   -->
 	<entry key="sequencesList">
 	</entry>
 
